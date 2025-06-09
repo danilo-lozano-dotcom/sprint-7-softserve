@@ -1,0 +1,14 @@
+[
+    {
+        "nombre_mascota": "Kika",
+        "fecha": "2025-08-08",
+        "motivo": "Indigesti\u00f3n",
+        "diagnostico": "Gastritis"
+    },
+    {
+        "nombre_mascota": "Condorito",
+        "fecha": "2025-12-12",
+        "motivo": "Chequeo general",
+        "diagnostico": "N/A"
+    }
+]
